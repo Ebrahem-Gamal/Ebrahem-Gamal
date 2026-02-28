@@ -1,7 +1,7 @@
 # Ebrahem Gamal
 ### Network & DevOps Engineer | Electrical & Communications Engineer
 
-I am an Electrical and Communications Engineering student at HTI with a GPA of 3.41. I specialize in Network Engineering and DevOps, focusing on automating infrastructures and building reliable embedded systems.
+I am an Electrical and Communications Engineering graduate from HTI with a GPA of 3.41. I specialize in Network Engineering and DevOps, focusing on automating infrastructures and building reliable embedded systems.
 
 ---
 
@@ -16,6 +16,7 @@ I am an Electrical and Communications Engineering student at HTI with a GPA of 3
 
 ## Projects
 
+* Electronic Circuit Fault Detection: Developed a system/methodology for identifying and diagnosing faults in electronic circuits to ensure hardware reliability.
 * Real-Time Digital Clock: A high-precision 24-hour clock system using ATmega32 and LCD display with full Proteus simulation.
 * Cloud-Native Patient Web Interface: Built a CI/CD pipeline, containerized a Node.js app, and deployed it on AWS using Terraform and Kubernetes.
 * Traffic Light Control System: Designed and implemented traffic light logic using Embedded C and simulated the hardware in Proteus.
@@ -28,7 +29,7 @@ I am an Electrical and Communications Engineering student at HTI with a GPA of 3
 
 * Bachelor of Science in Communications & Electronics Engineering
 * Higher Technological Institute (HTI), 10th of Ramadan
-* 2021 - 2026 | GPA: 3.41/4.0
+* GPA: 3.41/4.0
 
 ---
 
